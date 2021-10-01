@@ -1,6 +1,8 @@
 ## 간단한 파이썬 네이버를 이용한 급식조회 
 
 ### Web_crawling.py 실행파일
+### 해설블로그 : https://blog.naver.com/gms8757/222523328646
+
 ### 사용법:
 ### 1.네이버에 급식을 조회할 학교 검색. (근처에 존재하는 학교를 가져와보았다.)
 ![image](https://user-images.githubusercontent.com/82009667/135586058-f5b58730-1b56-4a55-959e-811317d9f68c.png)
