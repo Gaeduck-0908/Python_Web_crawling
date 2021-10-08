@@ -30,7 +30,6 @@ while True:
 
     elif(a == 2): #오늘급식
         today = " " +str(to.month)+"월 "+str(to.day)+"일 "
-        print(today+"급식")
         for food in menu:
             foodTo = food.text[:food.text.find('[')]
             if foodTo == today :
